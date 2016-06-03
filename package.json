@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmsnet/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "tmsnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmsnet/hello-mars/issues"
+  },
+  "homepage": "https://github.com/tmsnet/hello-mars#readme"
+}
